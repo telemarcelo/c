@@ -1,7 +1,16 @@
-##Mobile-Portfolio Project Optimization
+###Mobile-Portfolio Project Optimization
 
-Summary of Optimizations:
-index.html
+##How to operate
+This is a Mobile-Portfolio Website containing index.html and various other project views.
+
+To operate, simply open index.html with a web browser and click on links to open different
+pages of the website.
+
+The main files are index.html, views/pizza.html, and views/js/main.js
+
+
+##Summary of Optimizations:
+index.htmlcl
 28/100 page speed insights
 change: profilepic.jpg  pizzeria.jpg
 77/100
